@@ -1,0 +1,14 @@
+{
+  "name": "nodeignore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodeignore.js",
+  "bin": {
+    "nodeignore": "./bin/nodeignore"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChJJin",
+  "license": "MIT"
+}
